@@ -1,0 +1,18 @@
+#headlist{
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  text-align: center;
+  font-family: helvetica, sans-serif;
+  color: white;
+}
+
+#mainheader{
+  font-family: helvetica, sans-serif;
+  font-size: 70px;
+}
+
+.mainlist li{
+  list-style-type: none;
+  font-size: 18px;
+  color: white;
+  margin: 10px 0;
+}
